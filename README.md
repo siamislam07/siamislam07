@@ -1,6 +1,6 @@
 
 <!-- <img src="./img/Black  LinkedIn Banner.png"/> -->
-<img src="./img/banner.png"/>
+<img src="./img/banner.png" />
 
 ## Little OVerview
 
