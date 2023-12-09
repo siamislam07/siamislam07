@@ -1,7 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Siam Islam</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFlOHQ3YzdnY2EwOTNveGhmN2x1cHNsN2Z3ZnVqNW5pbHB3dzlkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3jN1WxJvcJLZnBCn3n/giphy.gif">
+<!-- <img src="./img/Black  LinkedIn Banner.png"/> -->
+<img src="./img/banner.png"/>
+
+## Little OVerview
+
+<img align="right" alt="Coding" width="130" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFlOHQ3YzdnY2EwOTNveGhmN2x1cHNsN2Z3ZnVqNW5pbHB3dzlkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3jN1WxJvcJLZnBCn3n/giphy.gif">
 
 
 - 🌱 I’m currently learning **React, Express, next.js**
@@ -10,7 +13,7 @@
 
 - ⚡ Fun fact **I'm a karate Trainer.**
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 
 <br/>
 
@@ -21,11 +24,14 @@
 <a href="https://www.youtube.com/channel/UCIOhtcQ4emyajfKK8RDrpIQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uciohtcq4emyajfkk8rdrpiq" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and 🧰 Tools:</h3>
+ ## Languages and 🧰 Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=express,firebase,git,js,mongodb,nodejs,postman,react,tailwind)](https://skillicons.dev)
 <br/>
 <br/>
+
+## My Streak
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=siamislam07&theme=gotham&border_radius=3.9&mode=weekly&card_width=518" />
