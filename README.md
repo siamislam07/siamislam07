@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="130" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFlOHQ3YzdnY2EwOTNveGhmN2x1cHNsN2Z3ZnVqNW5pbHB3dzlkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3jN1WxJvcJLZnBCn3n/giphy.gif">
 
 
-- 🌱 I’m currently learning **React, Express, next.js**
+- 🌱 I’m currently learning **Next.js** 
 
 - 📫 How to reach me **siam38345@gmail.com**
 
@@ -38,5 +38,10 @@
 </div>
 
 
+## Most Used Language
+<div align='center'>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamislam07&theme=tokyonight&hide_border=true" /></a>
+
+</div>
 
 
