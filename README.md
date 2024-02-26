@@ -5,9 +5,11 @@
 ## 📌Little Overview
 
 <img align="right" alt="Coding" width="130" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFlOHQ3YzdnY2EwOTNveGhmN2x1cHNsN2Z3ZnVqNW5pbHB3dzlkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3jN1WxJvcJLZnBCn3n/giphy.gif">
-
+ 
 
 - 🌱 I’m currently learning **Next.js** 
+
+- 🔨 Currently working on **Food-Smash**
 
 - 📫 How to reach me **siamiislam909@gmail.com**
 
